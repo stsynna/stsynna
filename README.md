@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 Working on **improving [my Twitch livestreams](http://twitch.tv/st_synna) and Discord server**
 
-- 🌱 Learning **Figma** and tools/languages to make simple apps/games (one day)
+- 🌱 Learning **Figma**, accessible design, and tools/languages to make simple apps/games (one day)
   
 - 👯 Looking to collaborate on **fun and useful projects**
   
