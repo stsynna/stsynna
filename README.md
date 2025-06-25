@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br/>
 <h3 align="left">Where to find me:</h3>
 
-- 👨‍💻 Projects: [Syn's Stuff](http://tiny.cc/synstuff) • [Game Shelf](http://tiny.cc/syngaming) • [Twitch (Live)](http://twitch.tv/st_synna) • [Youtube (VOD)](http://youtube.com/@st_synna)
+- 👨‍💻 Projects: [Twitch (Live)](http://twitch.tv/st_synna) • [Youtube (VOD)](http://youtube.com/@st_synna) • [Syn's Stuff](http://tiny.cc/synstuff) • [Game Shelf](http://tiny.cc/syngaming)
 
 - 📝 Reviews: [https://stsynna.tumblr.com](https://stsynna.tumblr.com)
   
