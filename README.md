@@ -1,4 +1,4 @@
-## Hi there 👋
+## Intro
 
 <!--
 **stsynna/stsynna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,73 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Heya 👋, I'm Syn!</h1>
+<h3 align="center">I'm trying to learn how to do/make stuff I'm curious about.</h3>
+
+<h3 align="left">Currently:</h3>
+
+- 🔭 Working on **improving [my Twitch livestreams](http://twitch.tv/st_synna) and Discord server**
+
+- 🌱 Learning **Figma** and tools/languages to make simple apps/games (one day)
+  
+- 👯 Looking to collaborate on **fun and useful projects**
+  
+- 🤝 Looking for help with **app/game design (hoping to make an indie game)**
+
+<br/>
+<h3 align="left">Where to find me:</h3>
+
+- 👨‍💻 Projects: [Syn's Stuff](http://tiny.cc/synstuff) • [Game Shelf](http://tiny.cc/syngaming) • [Twitch (Live)](http://twitch.tv/st_synna) • [Youtube (VOD)](http://youtube.com/@st_synna)
+
+- 📝 Reviews: [https://stsynna.tumblr.com](https://stsynna.tumblr.com)
+  
+- 📫 Email: **st.synna |alias| gmail.com**
+
+<br/>
+
+<h3 align="left">Tech Stack:</h3>
+<p align="left">
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+<br/>
+![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) 
+![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+</p>
+
+<br/>
+<h3 align="left">Learning:</h3>
+<p align="left">
+  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
+<br/>
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</p>
+
+<hr>
+
+<h3 align="left">Other info:</h3>
+<p align="left">
+  
+![](https://github-readme-stats.vercel.app/api?username=stsynna&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=stsynna&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stsynna&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</p>
+
+<!-- Created with GPRG ( https://rahuldkjain.github.io/gh-profile-readme-generator/ ) and GPRM ( https://gprm.itsvg.in ) -->
