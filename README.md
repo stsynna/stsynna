@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Projects: [Twitch (Live)](http://twitch.tv/st_synna) • [Youtube (VOD)](http://youtube.com/@st_synna) • [Syn's Stuff](http://tiny.cc/synstuff) • [Game Shelf](http://tiny.cc/syngaming)
 
-- 📝 Blog: [Tumnblr (Reviews)](https://stsynna.tumblr.com) • [Bearblog (Personal)](https://syn.bearblog.dev/)
+- 📝 Blog: [Tumblr (Reviews)](https://stsynna.tumblr.com) • [Bearblog (Personal)](https://syn.bearblog.dev/)
   
 - 📫 Email: **st.synna |alias| gmail.com**
 
